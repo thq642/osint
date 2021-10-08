@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffff;
+  background-color: #000000;
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica;
 }
@@ -10,10 +10,19 @@ body {
 }
 
 #header {
+  color: #fff;
   font-size: 40px;
   font-weight: bold;
   top: 20px;
   text-align: center;
+}
+
+p{
+  color: #fff;
+}
+
+h3{
+  color: #fff;
 }
 
 .legend {
@@ -22,7 +31,7 @@ body {
   right: 0;
   width: 330px;
   font-size: 11px;
-  color: #000;
+  color: rgb(255, 255, 255);
 }
 
 .node {
@@ -38,11 +47,11 @@ body {
 
 .node text {
   font-size: 12px;
-  fill: rgb(0, 0, 0);
+  fill: rgb(255, 255, 255);
 }
 
 path.link {
   fill: none;
-  stroke: #ccc;
+  stroke: rgb(255, 0, 0);
   stroke-width: 1px;
 }
