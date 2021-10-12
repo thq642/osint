@@ -5,6 +5,7 @@ OSINT framework focused on gathering information from free tools or resources. T
 
 I originally created this framework with an information security point of view. Since then, the response from other fields and disciplines has been incredible. I would love to be able to include any other OSINT resources, especially from fields outside of infosec. Please let me know about anything that might be missing!
 
+https://osint.mikailthoriq.ml
 
 ### Legend
 (T) - Indicates a link to a tool that must be installed and run locally  
